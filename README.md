@@ -58,9 +58,10 @@
 <br><br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="300" height="225">
+  <img src="https://media4.giphy.com/media/102XaoevKBKiwo/giphy.gif" width="300" height="225">
 </p>
 
 <p align="center">
-  <strong>Have fun exploring the world of networking! 🌍🔎</strong>
+  ## P.S
+  <strong> HAS ANYONE SEEN MY 2.3 Trillion Dollars?!?!? Last seen with Rumsfeld🌍🔎</strong>
 </p>
