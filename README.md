@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGK22yhhlDFOqrzRC93qfai7xmzHpji3VlAbOsuUVWl_Tx1PYKLkjHJbLcu4jg46y1rHM&usqp=CAU" width="500" height="500">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGK22yhhlDFOqrzRC93qfai7xmzHpji3VlAbOsuUVWl_Tx1PYKLkjHJbLcu4jg46y1rHM&usqp=CAU">
 </p>
 
 <p align="center">
   <h1 align="center">🚀 TCP Port Scanner 🚀</h1>
   <br>
-  <p align="center">Scan ports with a touch of 💥 POWER! 💥</p>
+  <p align="center">Scan radio frequencies with 💥 POWER! 💥</p>
   <br>
   <p align="center">
     <a href="#features">⭐ Features</a> •
@@ -25,7 +25,7 @@
 <p align="center">
   🌟 Layer 4 port scanner 🌟
   <br>
-  📡 Allows you to scan the 2.412 GHz-2.472 GHz Radio Frequency with ease 💯
+  📡 Allows you to scan the 2.412 GHz-2.472 GHz Radio Frequency with eas
 </p>
 
 <br><br>
@@ -40,7 +40,7 @@
 
 <br><br>
 
-* 💥 I might add SYN Flood and unleash its full potential! 💥
+* 💥 I might add SYN Flood 💥
 * 🎨 Definitely considering making a GUI and customizing it to the extreme!
 * 🌐 How about adding support for scanning multiple protocols and frequencies? The sky's the limit! 🌌
 
