@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGK22yhhlDFOqrzRC93qfai7xmzHpji3VlAbOsuUVWl_Tx1PYKLkjHJbLcu4jg46y1rHM&usqp=CAU">
-</p>
-
-<p align="center">
   <h1 align="center">🚀 TCP Port Scanner 🚀</h1>
   <br>
+  <p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGK22yhhlDFOqrzRC93qfai7xmzHpji3VlAbOsuUVWl_Tx1PYKLkjHJbLcu4jg46y1rHM&usqp=CAU">
+</p>
   <p align="center">Scan radio frequencies with 💥 POWER! 💥</p>
   <br>
   <p align="center">
