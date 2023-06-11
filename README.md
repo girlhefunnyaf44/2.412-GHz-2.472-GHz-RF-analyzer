@@ -1,8 +1,5 @@
 <p align="center">
   <h1 align="center">🚀 TCP Port Scanner 🚀</h1>
-  <br>
-  <p align="center">Scan radio frequencies with 💥 POWER! 💥</p>
-  <br>
   <p align="center">
     <a href="#features">⭐ Features</a> •
     <a href="#ideas">💡 Ideas</a> •
