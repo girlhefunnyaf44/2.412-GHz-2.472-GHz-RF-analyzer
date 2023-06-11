@@ -57,7 +57,3 @@
   <img src="https://media4.giphy.com/media/102XaoevKBKiwo/giphy.gif">
 </p>
 
-<p align="center">
-  ## P.S
-  <strong> HAS ANYONE SEEN MY 2.3 Trillion Dollars?!?!? Last seen with Rumsfeld🌍🔎</strong>
-</p>
