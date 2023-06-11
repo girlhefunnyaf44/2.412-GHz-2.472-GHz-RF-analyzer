@@ -6,14 +6,14 @@
 
 -----
 
-### <p align="center">⭐ Features ⭐</p>
+### <p align="center">⭐ Features ⭐
 
 <br><br>
-<strong>+ Layer 4 port scanner 👑</strong>
+<strong>+ Layer 4 port scanner</strong>
 <br>
 <strong>+ Allows you to scan the 2.412 GHz-2.472 GHz Radio Frequency with ease 💯</strong>
 <br><br>
-
+</p>
 -----
 
 ### <p align="center">💡 Ideas 💡</p>
