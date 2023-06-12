@@ -1,11 +1,9 @@
-<p align="center">
-  <h1 align="center">🚀 TCP Port Scanner 🚀</h1>
-  <p align="center">
-    <a href="#features">⭐ Features</a> •
-    <a href="#ideas">💡 Ideas</a> •
-    <a href="#disclaimer">📌 Disclaimer</a>
-  </p>
-</p>
+
+ <p align="center">
+   <a href="#features">⭐ Features</a> •
+   <a href="#ideas">💡 Ideas</a> •
+   <a href="#disclaimer">📌 Disclaimer</a>
+ </p>
 
 <br><br>
 
