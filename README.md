@@ -16,7 +16,7 @@
 <p align="center">
   🌟 Layer 4 port scanner 🌟
   <br>
-  📡 Allows you to scan the 2.412 GHz-2.472 GHz Radio Frequency with eas
+  📡 Allows you to scan the 2.412 GHz-2.472 GHz Radio Frequency with ease
 </p>
 
 <br><br>
