@@ -1,10 +1,3 @@
-
- <p align="center">
-   <a href="#features">⭐ Features</a> •
-   <a href="#ideas">💡 Ideas</a> •
-   <a href="#disclaimer">📌 Disclaimer</a>
- </p>
-
 <p align="center">
   🌟 Layer 4 port scanner 🌟
   <br>
