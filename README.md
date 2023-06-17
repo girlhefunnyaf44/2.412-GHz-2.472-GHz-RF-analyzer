@@ -1,8 +1,4 @@
 <p align="center">
-  📡 Allows you to scan the 2.412 GHz-2.472 GHz Radio Frequency with ease
-</p>
-
-<p align="center">
   <h2 align="center" id="ideas">💡 Ideas 💡</h2>
 </p>
 
