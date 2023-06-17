@@ -20,8 +20,8 @@
 
 <br><br>
 
-* ⚠️ **This program was made for educational purposes. Read the source code to learn about the TCP Triple Handshake and enhance your knowledge. Only scan ports for which you have permission.**
-* 🛡️ **Do not engage in any illegal or malicious activities. Be a good netizen!** 🦸‍♂️
+*     This program was made for educational purposes. Read the source code to learn about the TCP Triple Handshake and enhance your knowledge. Only scan ports for which you have permission.
+*     Do not engage in any illegal or malicious activities. Be a good netizen!** 🦸‍♂️
 
 <br><br>
 
