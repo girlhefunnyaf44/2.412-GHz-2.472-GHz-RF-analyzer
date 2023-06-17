@@ -13,10 +13,10 @@
 <p align="center">
   <h2 align="center" id="disclaimer">📌 Disclaimer 📌</h2>
 </p>
-<p align="center"> <strong><i>Pa gen bagay ilegal pa dwe sòt</i></strong> </p>
+<p align="center"> <strong><i>Do not engage in any illegal or malicious activities</i></strong> </p>
 <br><br>
 
-*     Do not engage in any illegal or malicious activities. **Only scan ports for which you have permission!** 🦸‍♂️
+*     **Only scan ports for which you have permission!** 🦸‍♂️
 *     This program was made for educational purposes. Read the source code to learn about the TCP Triple Handshake and enhance your knowledge.
 
 <br><br>
