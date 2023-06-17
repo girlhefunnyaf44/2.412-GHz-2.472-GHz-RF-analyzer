@@ -1,9 +1,9 @@
 <p align="center">
-  <h2 align="center" id="ideas">💡 Ideas 💡</h2>
+  <h2 align="center" id="ideas">💡 Information 💡</h2>
 </p>
 
 <p align="center">
-  <strong><i>Feel free to make a pull request on this repository to submit any idea</i></strong>
+  <strong><i>📡 Allows you to scan the 2.412 GHz-2.472 GHz Radio Frequency with ease</i></strong>
 </p>
 
 <br><br>
