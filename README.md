@@ -1,7 +1,7 @@
 <p align="center">
-  <h2 align="center" id="ideas">💡 Info 💡</h2>
+  <h2 align="center" id="ideas">💡 Ideas 💡</h2>
 </p>
-
+<p align="center"> <strong><i>Feel free to make a pull request on this repository to submit any idea</i></strong> </p>
 <br><br>
 
 *     Adding SYN Flood
@@ -13,7 +13,7 @@
 <p align="center">
   <h2 align="center" id="disclaimer">📌 Disclaimer 📌</h2>
 </p>
-
+<p align="center"> <strong><i>Pa gen bagay ilegal pa dwe sòt</i></strong> </p>
 <br><br>
 
 *     Do not engage in any illegal or malicious activities. **Only scan ports for which you have permission!** 🦸‍♂️
