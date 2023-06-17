@@ -31,7 +31,7 @@
 
 <br><br>
 
-* 💥 Adding SYN Flood
+*     Adding SYN Flood
 * 🎨 Definitely considering making a GUI and customizing it to the extreme!
 * 🌐 How about adding support for scanning multiple protocols and frequencies?
 
