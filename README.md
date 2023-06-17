@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center" id="ideas">💡 Information 💡</h2>
+  <h2 align="center" id="ideas">💡 Info 💡</h2>
 </p>
 
 <p align="center">
