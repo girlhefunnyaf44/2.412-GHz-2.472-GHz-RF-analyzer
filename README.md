@@ -31,9 +31,9 @@
 
 <br><br>
 
-* 💥 I might add SYN Flood 💥
+* 💥 Adding SYN Flood
 * 🎨 Definitely considering making a GUI and customizing it to the extreme!
-* 🌐 How about adding support for scanning multiple protocols and frequencies? The sky's the limit! 🌌
+* 🌐 How about adding support for scanning multiple protocols and frequencies?
 
 <br><br>
 
@@ -44,7 +44,7 @@
 <br><br>
 
 * ⚠️ **This program was made for educational purposes. Read the source code to learn about the TCP Triple Handshake and enhance your knowledge. Only scan ports for which you have permission.**
-* 🛡️ **Do not engage in any illegal or malicious activities. Remember, with great power comes great responsibility. Be a good netizen!** 🦸‍♂️
+* 🛡️ **Do not engage in any illegal or malicious activities. Be a good netizen!** 🦸‍♂️
 
 <br><br>
 
