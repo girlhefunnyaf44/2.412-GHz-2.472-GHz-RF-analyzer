@@ -5,14 +5,6 @@
    <a href="#disclaimer">📌 Disclaimer</a>
  </p>
 
-<br><br>
-
-<p align="center">
-  <h2 align="center" id="features">⭐ Features ⭐</h2>
-</p>
-
-<br><br>
-
 <p align="center">
   🌟 Layer 4 port scanner 🌟
   <br>
@@ -32,8 +24,8 @@
 <br><br>
 
 *     Adding SYN Flood
-* 🎨 Definitely considering making a GUI and customizing it to the extreme!
-* 🌐 How about adding support for scanning multiple protocols and frequencies?
+*     Definitely considering making a GUI and customizing it to the extreme!
+*     How about adding support for scanning multiple protocols and frequencies?
 
 <br><br>
 
