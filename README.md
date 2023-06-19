@@ -1,16 +1,4 @@
 <p align="center">
-  <h2 align="center" id="ideas">💡 Ideas 💡</h2>
-</p>
-<p align="center"> <strong><i>Feel free to make a pull request on this repository to submit any idea</i></strong> </p>
-<br><br>
-
-*     Adding SYN Flood
-*     Adding GUI
-*     Adding support for scanning multiple protocols and frequencies
-
-<br><br>
-
-<p align="center">
   <h2 align="center" id="disclaimer">📌 Disclaimer 📌</h2>
 </p>
 <p align="center"> <strong><i>Do not engage in any illegal or malicious activities</i></strong> </p>
