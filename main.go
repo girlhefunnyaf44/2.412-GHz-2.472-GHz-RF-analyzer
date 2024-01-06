@@ -17,12 +17,6 @@ import (
 
 	"github.com/fatih/color"
 )
-/* I used some light obfuscation techniques hence the function names, so this program is hard to read.
-
- At the time of writing this I was really interested in cyber security, CTF and reverse engineering. This reflects my coding style, because of how obfuscated I made it.
-
- The program tries to confuse you and make you scratch your head, but I added documentation so it's easier to read.*/
-
 
 func rainbow(title string) (int, error) {  // This function uses winapi to change the title of the window. 
 	handle, err := syscall.LoadLibrary("Kernel32.dll")
