@@ -9,10 +9,6 @@
 *     I used some light obfuscation techniques hence the function names, so this program is hard to read.
 
 
-## Update
-
- I got absolutely roasted for not having any documentation so I decided to quickly add some 😅
-
 
 ### Usage
 
