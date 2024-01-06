@@ -13,7 +13,7 @@
 ### Usage
 
 ```sh
- Simply Type 1 for Anydesk Resolver, Type 2 for TCP Port Scanner")
+ Simply Type 1 for Anydesk Resolver, Type 2 for TCP Port Scanner
 ```
 
 <br><br>
