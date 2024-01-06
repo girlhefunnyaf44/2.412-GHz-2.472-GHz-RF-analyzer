@@ -7,6 +7,12 @@
 *     **Only scan ports for which you have permission!** 🦸‍♂️
 *     This program was made for educational purposes. Read the source code to learn about the TCP Triple Handshake and enhance your knowledge.
 
+## Update
+
+```sh
+ I got absolutely roasted for not having any documentation so I decided to quickly add some 😅
+```
+
 <br><br>
 
 <p align="center">
